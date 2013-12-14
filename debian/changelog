@@ -1,3 +1,9 @@
+lightdm-webkit-greeter (0.1.2-0blankon4) suroboyo; urgency=medium
+
+  * Fix soname
+
+ -- Mahyuddin Idram Ahmad <dotovr@di.blankon.in>  Sat, 14 Dec 2013 20:14:54 +0700
+
 lightdm-webkit-greeter (0.1.2-0blankon3) suroboyo; urgency=low
 
   * debian/40-lightdm-webkit-greeter.conf:
