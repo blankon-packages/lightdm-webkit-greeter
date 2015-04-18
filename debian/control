@@ -1,7 +1,7 @@
 Source: lightdm-webkit-greeter
 Section: x11
 Priority: optional
-Maintainer: Rahman Yusri Aftian <aftian@di.blankon.in>
+Maintainer: BlankOn Developers <blankon-dev@googlegroups.com>
 XSBC-Original-Maintainer: Robert Ancell <robert.ancell@ubuntu.com>
 Standards-Version: 3.9.4
 Build-Depends: debhelper (>= 7.0.50~),
