@@ -1,6 +1,9 @@
 lightdm-webkit-greeter (0.1.2-0blankon6) tambora; urgency=medium
 
   * Rebuild 
+  * debian/control
+    - remove build-depends liblightdm-gobject-dev
+    - added build-depends liblightdm-gobject-1-dev
 
  -- Mahyuddin <yudi.al@gmail.com>  Sun, 19 Apr 2015 01:21:08 +0700
 
