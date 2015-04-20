@@ -1,6 +1,6 @@
 lightdm-webkit-greeter (0.1.2-0blankon7) tambora; urgency=medium
 
-  * back to build-depends liblightdm-gobject-dev
+  * back to build-depends liblightdm-gobject-dev (>= 1.10.3)
 
  -- Mijortsa <azis.astrojim@surabaya.di.blankon.in>  Mon, 20 Apr 2015 14:18:17 +0700
 
