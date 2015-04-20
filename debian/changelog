@@ -2,7 +2,7 @@ lightdm-webkit-greeter (0.1.2-0blankon7) tambora; urgency=medium
 
   * back to build-depends liblightdm-gobject-dev
 
- -- Mijortsa <azis.astrojim@surabaya.di.balnkon.in>  Mon, 20 Apr 2015 14:18:17 +0700
+ -- Mijortsa <azis.astrojim@surabaya.di.blankon.in>  Mon, 20 Apr 2015 14:18:17 +0700
 
 lightdm-webkit-greeter (0.1.2-0blankon6) tambora; urgency=medium
 
