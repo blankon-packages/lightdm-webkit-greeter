@@ -1,3 +1,12 @@
+lightdm-webkit-greeter (2.0.0-0blankon1) tambora; urgency=medium
+
+  * New upstream release 
+  * Change build-depends:
+    - liblightdm-gobject-1-dev to liblightdm-gobject-dev
+    - libwebkit-dev to libwebkitgtk-3.0-dev
+
+ -- dotovr <dotovr@preko>  Wed, 08 Jun 2016 21:47:11 +0700
+
 lightdm-webkit-greeter (0.1.2-0blankon8) tambora; urgency=medium
 
   * Rebuild

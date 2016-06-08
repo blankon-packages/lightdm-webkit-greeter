@@ -8,7 +8,6 @@ lightdm_webkit_greeter_CFLAGS = \
 	$(GREETER_CFLAGS) \
 	$(WARN_CFLAGS) \
 	-DVERSION=\"$(VERSION)\" \
-	-DGETTEXT_PACKAGE=\"$(GETTEXT_PACKAGE)\" \
 	-DLOCALE_DIR=\"$(localedir)\" \
 	-DBINARY=\"lightdm-webkit-greeter\"
 

@@ -1,3 +1,26 @@
+Overview of changes in lightdm-webkit-greeter 2.0.0
+
+    * Completed API including the guest and auto-login functions.
+    * API is now completely in-line with LightDM API.
+    * Several functional code improvements.
+    * Much improved Exception handling.
+    * Improved documentation.
+
+Overview of changes in lightdm-webkit-greeter 1.0
+
+    * Add missing lightdm.in_authentication variable
+    * Updated show_prompt and show_message to pass
+      prompt and message type
+    * Added new theme (simple)
+    * Added manpage
+    * Updated to more closely follow lightdm API
+
+Overview of changes in lightdm-webkit-greeter 0.2.0
+
+    * Add missing lightdm.set_language function
+    * Use GTK+ 3.0
+    * Fix compile warnings
+
 Overview of changes in lightdm-webkit-greeter 0.1.2
 
     * Fix files not being added to tarball

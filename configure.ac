@@ -1,6 +1,6 @@
 dnl Process this file with autoconf to produce a configure script.
 
-AC_INIT(lightdm-webkit-greeter, 0.1.2)
+AC_INIT(lightdm-webkit-greeter, 2.1.0)
 AC_SUBST(THEME_DIR)
 AC_CONFIG_HEADER(config.h)
 AM_INIT_AUTOMAKE
@@ -16,8 +16,8 @@ dnl ###########################################################################
 
 PKG_CHECK_MODULES(GREETER, [
     liblightdm-gobject-1
-    gtk+-2.0
-    webkit-1.0
+    gtk+-3.0
+    webkitgtk-3.0
     dbus-glib-1
 ])
 
@@ -72,10 +72,12 @@ dnl ###########################################################################
 AC_OUTPUT([
 Makefile
 data/Makefile
+man/Makefile
 src/Makefile
 po/Makefile.in
 themes/Makefile
 themes/webkit/Makefile
+themes/simple/Makefile
 ])
 
 dnl ###########################################################################

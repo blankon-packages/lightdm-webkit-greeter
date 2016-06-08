@@ -1,1 +1,15 @@
+The LightDM Webkit Greeter
+==========================
+
+The lightdm-webkit-greeter is a greeter that can be themed using html and
+javascript via webkit.
+
+Two example greeters are supplied: webkit, and simple.  The webkit greeter
+is more graphical, while the simple theme implements a minimalistic login
+screen.
+
+For documentation, see the supplied manpage.
+
+The project is hosted on Launchpad.  You can find it at:
+
 https://launchpad.net/lightdm-webkit-greeter
