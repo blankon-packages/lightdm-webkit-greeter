@@ -7,8 +7,8 @@ Standards-Version: 3.9.4
 Build-Depends: debhelper (>= 7.0.50~),
                dh-autoreconf,
                gnome-common,
-               liblightdm-gobject-1-dev (>= 1.8.0),
-               libwebkit-dev (>= 2.4.10)
+               liblightdm-gobject-1-dev (>= 1.18.0),
+               libwebkit-dev
 Homepage: https://launchpad.net/lightdm
 Vcs-Git: https://github.com/aftian/lightdm
 
