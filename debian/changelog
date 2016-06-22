@@ -1,3 +1,9 @@
+lightdm-webkit-greeter (2.0.0-0blankon3) tambora; urgency=medium
+
+  * Add autologin-user
+
+ -- Syai Mif <syaimif@di.blankon.in>  Wed, 22 Jun 2016 11:31:43 +0700
+
 lightdm-webkit-greeter (2.0.0-0blankon2) tambora; urgency=medium
 
   * Change berkas lightdm-webkit-greeter.conf
