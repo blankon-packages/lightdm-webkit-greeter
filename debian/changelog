@@ -1,3 +1,9 @@
+lightdm-webkit-greeter (2.0.0-0blankon4) tambora; urgency=medium
+
+  * Change theme greeter
+
+ -- Syai Mif <syaimif@di.blankon.in>  Thu, 30 Jun 2016 07:18:19 +0700
+
 lightdm-webkit-greeter (2.0.0-0blankon3) tambora; urgency=medium
 
   * Add autologin-user
