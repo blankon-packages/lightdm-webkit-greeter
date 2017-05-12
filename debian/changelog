@@ -1,3 +1,10 @@
+lightdm-webkit-greeter (2.0.0-0blankon6) uluwatu; urgency=medium
+
+  * Upload to uluwatu
+  * 
+
+ -- Hanhan Husna <matcherapy@gmail.com>  Fri, 12 May 2017 08:31:26 +0700
+
 lightdm-webkit-greeter (2.0.0-0blankon5) tambora; urgency=medium
 
   * Repeat theme greeter
